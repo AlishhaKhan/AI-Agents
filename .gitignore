@@ -1,0 +1,10 @@
+# Ignore all .env files
+**/.env
+
+# Ignore node_modules in all projects
+**/node_modules
+
+# Ignore __pycache__ and .venv
+**/__pycache__/
+**/.venv/
+**/.DS_Store
